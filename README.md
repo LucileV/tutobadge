@@ -5,6 +5,7 @@
 ![](1.PNG)
 
 > S'inscrire avec l'adresse email avec laquelle vous avez reçu vos badges. 
+
 ![](whitespace.jpg)  
 
   
